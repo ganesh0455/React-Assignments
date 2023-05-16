@@ -2,9 +2,10 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
   return (
     <div>
-      <h>Let's get started</h>
+      <h1>Let's get started</h1>
     </div>
   );
 }
