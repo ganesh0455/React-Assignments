@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import Main from './Components/Expence tracker/Main';
 
 function App() {
 
   return (
-    <div>
-      <h1>Let's get started</h1>
-    </div>
+    <>
+      <Main />
+    </>
   );
 }
 
